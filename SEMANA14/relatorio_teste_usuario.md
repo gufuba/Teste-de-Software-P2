@@ -100,7 +100,6 @@ Classificados por gravidade (alta / média / baixa) e relacionados às heurísti
 ## 9. Limitações
 
 - Apenas **um participante** e **uma execução**; os tempos e erros não são generalizáveis.
-- O **questionário SUS não foi aplicado** nesta execução (modelo em branco no Anexo A).
 - O site tinha campanhas sazonais (Black Friday 2026) e conteúdo personalizado por conta, então a
   interface e os resultados podem variar entre usuários e datas.
 - Nenhum pagamento foi realizado: parei na tela "Finalize sua compra".
@@ -113,16 +112,13 @@ Escala de 1 (discordo totalmente) a 5 (concordo totalmente).
 
 | # | Afirmação | 1 | 2 | 3 | 4 | 5 |
 |---|---|:-:|:-:|:-:|:-:|:-:|
-| 1 | Acho que gostaria de usar este sistema com frequência. | | | | | |
-| 2 | Achei o sistema desnecessariamente complexo. | | | | | |
-| 3 | Achei o sistema fácil de usar. | | | | | |
-| 4 | Acho que precisaria de ajuda de uma pessoa técnica para usar o sistema. | | | | | |
-| 5 | Achei que as várias funções do sistema estavam bem integradas. | | | | | |
-| 6 | Achei que havia muita inconsistência no sistema. | | | | | |
-| 7 | Imagino que a maioria das pessoas aprenderia a usar o sistema rapidamente. | | | | | |
-| 8 | Achei o sistema muito complicado de usar. | | | | | |
-| 9 | Senti-me muito confiante ao usar o sistema. | | | | | |
-| 10 | Precisei aprender muitas coisas antes de conseguir usar o sistema. | | | | | |
-
-**Cálculo:** itens ímpares → (resposta − 1); itens pares → (5 − resposta); somar tudo e
-multiplicar por 2,5. Resultado de 0 a 100 (acima de ~68 indica boa usabilidade).
+| 1 | Acho que gostaria de usar este sistema com frequência. | | | |x| |
+| 2 | Achei o sistema desnecessariamente complexo. | |x| | | |
+| 3 | Achei o sistema fácil de usar. | | | | |x|
+| 4 | Acho que precisaria de ajuda de uma pessoa técnica para usar o sistema. | |x| | | |
+| 5 | Achei que as várias funções do sistema estavam bem integradas. | | | | |x|
+| 6 | Achei que havia muita inconsistência no sistema. |x| | | | |
+| 7 | Imagino que a maioria das pessoas aprenderia a usar o sistema rapidamente. | | | |x| |
+| 8 | Achei o sistema muito complicado de usar. | |x| | | |
+| 9 | Senti-me muito confiante ao usar o sistema. | | | |x| |
+| 10 | Precisei aprender muitas coisas antes de conseguir usar o sistema. | |x| | | |
