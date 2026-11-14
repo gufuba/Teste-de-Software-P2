@@ -50,6 +50,7 @@ opiniões), "+100 mil vendidos", R$ 214,63 no Pix, enviado pelo Full.
 | Tempo de execução | **2 min 24 s** |
 | Taxa de sucesso (fluxo concluído sem ajuda) | Concluí o fluxo sem ajuda, com uma adaptação na tarefa 3 (sem ordenação por avaliação). |
 | Erros cometidos | 2 (1 perda de caminho/confusão nos filtros; 1 clique incorreto após adicionar ao carrinho). |
+| Satisfação (SUS) | **82,5 / 100** — acima da média de referência (68), indicando boa usabilidade. Cálculo no Anexo A. |
 
 | Critério de sucesso | Meta | Resultado | Atendido? |
 |---|---|---|:---:|
@@ -99,7 +100,7 @@ Classificados por gravidade (alta / média / baixa) e relacionados às heurísti
 
 ## 9. Limitações
 
-- Apenas **um participante** e **uma execução**; os tempos e erros não são generalizáveis.
+- Apenas **um participante** e **uma execução**; os tempos, erros e a pontuação SUS (1 respondente) não são generalizáveis.
 - O site tinha campanhas sazonais (Black Friday 2026) e conteúdo personalizado por conta, então a
   interface e os resultados podem variar entre usuários e datas.
 - Nenhum pagamento foi realizado: parei na tela "Finalize sua compra".
@@ -122,3 +123,15 @@ Escala de 1 (discordo totalmente) a 5 (concordo totalmente).
 | 8 | Achei o sistema muito complicado de usar. | |x| | | |
 | 9 | Senti-me muito confiante ao usar o sistema. | | | |x| |
 | 10 | Precisei aprender muitas coisas antes de conseguir usar o sistema. | |x| | | |
+
+### Cálculo da pontuação SUS
+
+Itens ímpares: contribuição = resposta − 1. Itens pares: contribuição = 5 − resposta.
+Soma das contribuições × 2,5 = pontuação (0 a 100; acima de ~68 indica boa usabilidade).
+
+| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Soma |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Resposta | 4 | 2 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 2 | |
+| Contribuição | 3 | 3 | 4 | 3 | 4 | 4 | 3 | 3 | 3 | 3 | **33** |
+
+**Pontuação SUS = 33 × 2,5 = 82,5**
