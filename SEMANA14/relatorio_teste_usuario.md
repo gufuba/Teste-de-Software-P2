@@ -106,7 +106,7 @@ Classificados por gravidade (alta / média / baixa) e relacionados às heurísti
 
 ---
 
-## Anexo A — Formulário SUS (modelo em branco)
+## Anexo A — Formulário SUS 
 
 Escala de 1 (discordo totalmente) a 5 (concordo totalmente).
 
